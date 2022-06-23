@@ -1,0 +1,47 @@
+#copy_right_footer{
+
+   position: fixed;
+   bottom: 0;
+   width: 100%; 
+   text-align: center;
+   background-color: wheat;
+   font-size: 20px;
+   font-family: sans-serif;
+   font-weight: 300px;
+}
+
+body
+{
+    background-color:cornflowerblue;
+}
+
+img:hover{
+    border-radius: 100px;
+}
+
+#camera{
+    width: 450px;
+    height: 370px;
+    border: dotted lightgray;
+}
+
+img{ 
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    width: 300px;
+    height: 250px;
+    border-radius: 35px;
+    padding: 15px;
+}
+
+#resultRow{
+    display: inline;
+    padding: 20px;
+}
+
+hr{
+    color: aqua;
+    height: 10px;
+}
+  
+    
+
